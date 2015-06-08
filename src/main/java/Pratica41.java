@@ -20,7 +20,5 @@ public class Pratica41 {
         System.out.println("Area circulo = " + circulo1.getArea());
         System.out.println("Perimetro circulo = " + circulo1.getPerimetro());
         
-        
-        
     }
 }
