@@ -9,6 +9,7 @@ import utfpr.ct.dainf.if62c.pratica.Elipse;
  * Template de projeto de programa Java usando Maven.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
+
 public class Pratica41 {
     public static void main(String[] args) {
         Elipse elipse1 = new Elipse(10, 5);
